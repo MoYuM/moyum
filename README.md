@@ -9,6 +9,7 @@ Here are some projects I'm working on:
 - ⚙️ [Moyu Neovim Config](https://github.com/MoYuM/nvim): My Neovim configuration 
 - 🍹 [How to Drink](https://github.com/MoYuM/HowToDrink): A fork of "How to Cook," focused on drinking.
 - 🐟 [Moyu Search](https://chromewebstore.google.com/detail/moyu-search/bomgjaoflafjgeojbdakogolgdingcib?authuser=0&hl=zh-CN): 中文友好的浏览器 Tab 搜索扩展.
+- 👍 [Notion2Rss](https://github.com/MoYuM/notion2rss): Convert your Notion database into an RSS feed using Cloudflare Workers.
 
 And here is my blog
 [moyum 的播客](https://moyum.notion.site/moyum-130e29bd912180f7bee6c01cc2b09017)
