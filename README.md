@@ -1,7 +1,7 @@
 ## Hello, I'm Moyum! 👋
 I'm a front-end engineer currently working at Shouqianba in Shanghai. 🌆 I'm passionate about coding and continuously learning to explore new possibilities. 🚀
 
-You can check out [My Blog](moyum.xyz) for insights and ideas. 📝
+You can check out [My Blog](https://moyum.xyz) for insights and ideas. 📝
 
 Here are some projects I'm working on:
 
@@ -12,6 +12,6 @@ Here are some projects I'm working on:
 - 👍 [Notion2Rss](https://github.com/MoYuM/notion2rss): Convert your Notion database into an RSS feed using Cloudflare Workers.
 
 And here is my blog
-[moyum 的播客](moyum.xyz)
+[moyum 的播客](https://moyum.xyz)
 
 要记得敢于去相信
