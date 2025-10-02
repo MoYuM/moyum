@@ -12,6 +12,6 @@ Here are some projects I'm working on:
 - 👍 [Notion2Rss](https://github.com/MoYuM/notion2rss): Convert your Notion database into an RSS feed using Cloudflare Workers.
 
 And here is my blog
-[moyum 的播客](https://moyum.top)
+[moyum.top](https://moyum.top)
 
 要记得敢于去相信
