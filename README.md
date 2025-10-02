@@ -1,7 +1,7 @@
 ## Hello, I'm Moyum! 👋
 I'm a front-end engineer currently working at Shouqianba in Shanghai. 🌆 I'm passionate about coding and continuously learning to explore new possibilities. 🚀
 
-You can check out [My Blog](https://moyum.xyz) for insights and ideas. 📝
+You can check out [My Blog](https://moyum.top) for insights and ideas. 📝
 
 Here are some projects I'm working on:
 
